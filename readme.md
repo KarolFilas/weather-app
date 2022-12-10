@@ -9,3 +9,4 @@ Technology stack:
   <li>JS</li>
 </ul>
 
+Project live: [click here] https://karolfilas.github.io/weather-app/
